@@ -90,4 +90,4 @@ print("\n--- Principais Regras de Associação que levam a um Acordo ---")
 # Exibimos apenas as colunas mais importantes para facilitar a leitura.
 print(acordo_rules_sorted[['antecedents', 'consequents', 'support', 'confidence', 'lift']].head(10))
 
-print("\n--- Análise Concluída ---")
+print("Análise Concluída")
