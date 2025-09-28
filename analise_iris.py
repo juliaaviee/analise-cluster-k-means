@@ -33,7 +33,7 @@ for i in k_range:
     kmeans_test.fit(X)
     wcss.append(kmeans_test.inertia_)
 
-# Plotando o gráfico do cotovelo
+# Plotando o gráfico do cotovelo:
 plt.figure(figsize=(10, 6))
 plt.plot(k_range, wcss, marker='o', linestyle='--')
 plt.title('Método do Cotovelo para a Base de Dados Iris')
@@ -64,4 +64,4 @@ print(df_iris.head())
 print("Centroides dos Clusters")
 print(pd.DataFrame(kmeans.cluster_centers_, columns=X.columns))
 
-print("Análise Concluída")
+print("Análise Concluída!")
