@@ -1,4 +1,4 @@
-# Relatório de Análise: Segmentação de Clientes e Padrões de Acordo
+# Relatório de Análise: Segmentação de Clientes e Padrões de Flores
 
 ## Visão Geral analise_cobranca
 
