@@ -1,6 +1,6 @@
 # Relatório de Análise: Segmentação de Clientes e Padrões de Acordo
 
-## Visão Geral
+## Visão Geral analise_cobranca
 
 Este relatório detalha a análise realizada sobre uma base de dados de cobrança com o objetivo de segmentar os devedores em perfis distintos (clusters) e identificar os padrões de comportamento (regras) que mais frequentemente resultam em um acordo de pagamento. O objetivo final é cruzar essas duas análises para criar estratégias de cobrança personalizadas e mais eficientes.
 
@@ -81,7 +81,7 @@ A combinação da clusterização com as regras de associação permitiu não ap
 ---
 # Análise Avançada da Base Iris: K-Means com Descrição por Regras de Associação
 
-## Visão Geral do Projeto
+## Visão Geral 2 analise_iris
 
 Este projeto aprofunda a análise da clássica base de dados Iris. Em vez de apenas agrupar os dados, o objetivo é utilizar um método de duas etapas para, primeiro, segmentar as flores com o algoritmo **K-Means** e, em seguida, usar o algoritmo **Apriori** para gerar regras de associação que forneçam uma descrição clara e legível das características que definem cada cluster.
 
